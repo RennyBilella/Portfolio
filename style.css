@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+.bio {
+    margin: 70px 197px 43px 197px;
+}
+.sidebar{
+    width: 415px;
+}
+.container {
+    width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+    margin:10px;
+    
+  }
+  
+  .skills {
+    text-align: center; 
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    color: white; 
+  }
+  .html{ width:95%; background-color: aqua;}
+  .react {width: 30%; background-color: #04AA6D;} /* Green */
+  .css {width: 80%; background-color: #2196F3;} /* Blue */
+  .javascript {width: 60%; background-color: #f44336;} /* Red */
+  .nodejs {width: 60%; background-color: #808080;} /* Dark Grey */
+
+  .hobbies img{
+      width: 300px;
+      height: 139px;
+  }
